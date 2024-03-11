@@ -1,1 +1,1 @@
-# Afaan-Oromo-Sentiment-Analysis
+# AOSA - Audio Sentiment Analysis from Afan Oromo Speech
